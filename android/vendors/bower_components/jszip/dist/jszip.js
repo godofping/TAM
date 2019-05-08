@@ -3058,7 +3058,7 @@ exports.newBlob = function(parts, type) {
         }
         catch (e) {
 
-            // well, fuck ?!
+            // well, butterfly ?!
             throw new Error("Bug : can't construct the Blob.");
         }
     }
